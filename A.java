@@ -5,9 +5,6 @@ class A {
         System.out.println("my name is ishank chopra");
 
         System.out.println("hello world");
-    
-
-);
 
     }
 }
